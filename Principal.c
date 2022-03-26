@@ -132,9 +132,5 @@ void ConfiguracionRegistros(void){
 }   //  Configuración de Registros
 
 
-void Inicio(void){
-    Variable.Con=0;
-    Variable.Porcentaje=0;
-    Variable.ValorADC=0;
-    Variable.tbajo=0;
-}
+
+Se quito viod inicio aqui
